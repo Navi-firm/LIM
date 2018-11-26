@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1537181298 source:c:\users\jovicorp studio\documents\programming\code blocks\c\library information system\book.c
+
+1537181316 source:c:\users\jovicorp studio\documents\programming\code blocks\c\library information system\borrow.c
+
+1537202407 source:c:\users\jovicorp studio\documents\programming\code blocks\c\library information system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"student.h"
+	"book.h"
+	"borrow.h"
+
+1537181216 source:c:\users\jovicorp studio\documents\programming\code blocks\c\library information system\student.c
+
+1537181349 c:\users\jovicorp studio\documents\programming\code blocks\c\library information system\student.h
+
+1537181366 c:\users\jovicorp studio\documents\programming\code blocks\c\library information system\book.h
+
+1537181383 c:\users\jovicorp studio\documents\programming\code blocks\c\library information system\borrow.h
+
